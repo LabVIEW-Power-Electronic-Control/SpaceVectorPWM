@@ -23,6 +23,7 @@
 		<Item Name="multirateCosimSVPWM.vi" Type="VI" URL="../multirateCosimSVPWM.vi"/>
 		<Item Name="Sandbox.vi" Type="VI" URL="../Sandbox.vi"/>
 		<Item Name="Testbench.vi" Type="VI" URL="../Testbench.vi"/>
+		<Item Name="ThreePhaseInverter.ms14" Type="Document" URL="../ThreePhaseInverter.ms14"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niInstr Instruction Framework Common v1 Host.lvlib" Type="Library" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/Host/Common/niInstr Instruction Framework Common v1 Host.lvlib"/>
@@ -58,7 +59,7 @@
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 				<Item Name="MultisimEMICtrl.dll" Type="Document" URL="/&lt;vilib&gt;/Simulation/EMI/Plugins/Multisim Design/MultisimEMICtrl.dll"/>
-				<Item Name="NILVSim.dll" Type="Document" URL="/&lt;vilib&gt;/Simulation/Implementation/Shared/NILVSim.dll"/>
+				<Item Name="NILVSim.dll" Type="Document" URL="/&lt;vilib&gt;/Simulation/Implementation/shared/NILVSim.dll"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
@@ -2509,7 +2510,7 @@ AddOutputFilter chunkFilter
 					<Item Name="SVPWM_TimingGen_SGL_src" Type="Directives">
 						<Property Name="Description" Type="Str"></Property>
 						<Property Name="DirectiveHistory" Type="Str"></Property>
-						<Property Name="Directives" Type="Str">
+						<Property Name="Directives" Type="Str">
 
 &lt;apDirectivesItem&gt;
 
@@ -2605,6 +2606,7 @@ AddOutputFilter chunkFilter
 						</Item>
 						<Item Name="vi.lib" Type="Folder">
 							<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+							<Item Name="lvSimController.dll" Type="Document" URL="/&lt;vilib&gt;/rvi/Simulation/lvSimController.dll"/>
 						</Item>
 					</Item>
 					<Item Name="Build Specifications" Type="Build">
