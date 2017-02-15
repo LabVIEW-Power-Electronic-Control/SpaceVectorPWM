@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-02-15 09:47:41" Modified_Date="2017-02-15 10:03:44" Creator="Brian Kindinger" Comments="" ID="a1ffec47fb9debc4022fe869d072b99e">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-02-15 09:47:41" Modified_Date="2017-02-15 10:12:46" Creator="Brian Kindinger" Comments="" ID="db01391c17f8c80eb4b151cb1ff30045">
   <Library_General_Settings>
-    <Package_File_Name>PEC_lib_Space_Vector_PWM</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Package_File_Name>lvpec_lib_Space_Vector_PWM</Package_File_Name>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -106,9 +106,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
