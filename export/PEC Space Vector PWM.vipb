@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2017-02-15 09:47:41" Modified_Date="2017-07-27 16:07:17" Creator="Brian Kindinger" Comments="" ID="3211bfa74c263ef5de10bf99dd5520a9">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2017-02-15 09:47:41" Modified_Date="2017-08-24 16:47:01" Creator="Brian Kindinger" Comments="" ID="3bae04d0318f0af2d87cca686bed4d24">
   <Library_General_Settings>
     <Package_File_Name>lvpec_lib_Space_Vector_PWM</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
