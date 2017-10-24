@@ -8,11 +8,8 @@
 
 </Property>
 	<Item Name="AddressSpace.lvclass" Type="LVClass" URL="../AddressSpace.lvclass"/>
-	<Item Name="Core.vi" Type="VI" URL="../Core.vi"/>
 	<Item Name="Modulation.vi" Type="VI" URL="../Modulation.vi"/>
-	<Item Name="ON_OFF_timing.ctl" Type="VI" URL="../ON_OFF_timing.ctl"/>
 	<Item Name="Parameters.ctl" Type="VI" URL="../Parameters.ctl"/>
 	<Item Name="RisingEdgeDelay.vi" Type="VI" URL="../RisingEdgeDelay.vi"/>
-	<Item Name="SpaceVectorCalc.vi" Type="VI" URL="../SpaceVectorCalc.vi"/>
 	<Item Name="SwitchPositions.ctl" Type="VI" URL="../SwitchPositions.ctl"/>
 </Library>
