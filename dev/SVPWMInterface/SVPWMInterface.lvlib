@@ -8,7 +8,9 @@
 
 </Property>
 	<Item Name="CalcParams.vi" Type="VI" URL="../CalcParams.vi"/>
+	<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
 	<Item Name="Configuration.ctl" Type="VI" URL="../Configuration.ctl"/>
 	<Item Name="getContext.vi" Type="VI" URL="../getContext.vi"/>
 	<Item Name="LoadConfiguration.vi" Type="VI" URL="../LoadConfiguration.vi"/>
+	<Item Name="SVPWMInterface.ctl" Type="VI" URL="../SVPWMInterface.ctl"/>
 </Library>
